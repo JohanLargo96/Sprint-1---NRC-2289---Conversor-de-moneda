@@ -1,4 +1,4 @@
-# flutter_application_ejercicio_7
+# Sprint 1 - Grupo 7 - NRC 2289
 
 A new Flutter project.
 
