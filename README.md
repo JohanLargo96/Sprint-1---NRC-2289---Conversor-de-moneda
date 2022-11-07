@@ -6,4 +6,4 @@ CONVERSOR DE MONEDA.
 
 Se puede descargar el archivo apk de la aplicación y una vista previa de la misma.
 
-![Screenrecording_20221106_201443](https://user-images.githubusercontent.com/113074370/200210563-5c9bce36-7326-4892-8b14-ce07a932cf17.gif)
+![Screenrecording_20221106_201443 (1)](https://user-images.githubusercontent.com/113074370/200211282-63cb3a2e-5a9e-4b67-983f-c390556e9393.gif)
